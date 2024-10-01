@@ -9,9 +9,9 @@ The Azure Naming Tool was created to help administrators define and manage their
 ## [Documentation](https://github.com/mspnp/AzureNamingTool/wiki)
 
 
-buymeacoffee
+## [Buy Me A Coffee](https://buymeacoffee.com/sandeepkaza)
 
-buymeacoffee.com/sandeepkaza                
+        
 
 ## Star History
 
