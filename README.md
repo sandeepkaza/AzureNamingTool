@@ -8,6 +8,11 @@ The Azure Naming Tool was created to help administrators define and manage their
 
 ## [Documentation](https://github.com/mspnp/AzureNamingTool/wiki)
 
+
+buymeacoffee
+
+buymeacoffee.com/sandeepkaza                
+
 ## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=sandeepkaza/AzureNamingTool&type=Date)](https://star-history.com/#sandeepkaza/AzureNamingTool&Date)
